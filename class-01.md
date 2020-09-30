@@ -1,5 +1,5 @@
-# HTML
-## Ch 1. Structure
+## HTML
+### Ch 1. Structure
 - Web pages act like electronic versions of documents and newspapers
 
 - Structure is important for helping readers understand messages you are trying to convey and navigate around document/content.
@@ -7,7 +7,7 @@
 - Attributes tell us more about elemtents
   - Made up of *2( parts: attribute **NAME** and attribute **VALUE**
   
-## Ch 8. Extra Markup
+### Ch 8. Extra Markup
 - ID: Used to edit a **UNIQUE** section of a webpage
 
 - Class: Used to edit **multiple** sections of a webpage
@@ -15,11 +15,12 @@
 - Meta: *'meta'* or *'meta data'* is stored in the 'head' section. 
   - meta data consists of 
 
-## Ch 17. HTML5 Layout
+## CSS
+### Ch 17. HTML5 Layout
 - Use proper syntax when forming your layout for your web pages
   - Helps you and other programmers locate content in a more efficient manner
 
-## Ch 18. Process & Design
+### Ch 18. Process & Design
 - Building your wireframe is the most foundational part before actually building your website
   - Helps clear some ideas you have in your mind.
   - Spending some time with a wireframe overall makes the production of your website smoother
@@ -30,8 +31,8 @@
   - What information your visitors need
   - How often people will visit your site
 
-# JS
-## Ch 1. ABCs of Programming
+## JS
+### Ch 1. ABCs of Programming
 - javascript can make a web page feel interactive by responding to what the user does
 
 - Access Content:
@@ -73,7 +74,7 @@
 - computers solve things programmatically
 
 
-# Lecture Notes
+## Lecture Notes
 
 To prevent plagarism add in README.md "____ helped with ____"
 
