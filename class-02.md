@@ -13,6 +13,8 @@
 - `<head>`
     - meta data
     - dependencies (Java/CSS) `<link>`
+        - CSS `<link rel="stylesheet" href="style.css">`
+        - JavaScript `<script src="app.ks"></script>`
 - `<body>` is where the content is shown
 - http://placehold.it/dimensionxdimension/
 - `&copy;` creates a copyright
