@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
+<br>
+Here is where I will write my daily notes on the topics we learn during lecture.
+<br>
 
-You can use the [editor on GitHub](https://github.com/jennerdulce/201reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- notes
+- ideas
+- reflections
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jim Kwik
+> _Ask yourself... "What is the **smallest** thing I could do today to achieve progress toward my goal(s)"_
+<br>
 
-### Markdown
+> _What keeps the ordinary from becoming extraordinary? That little 'extra'_
+<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> _You can't be upset by the rewards you didn't get from the work you didn't do_
+<br>
 
-```markdown
-Syntax highlighted code block
+## Table of Contents
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jennerdulce/201reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1.    [Day 01](https://github.com/jennerdulce/201reading-notes/blob/master/class-01.md)
+2.    [Day 02]()
+3.    [Day 03]()
+4.    [Day 04]()
+5.    [Day 05]()
+6.    [Day 06]()
+7.    [Day 07]()
+8.    [Day 08]()
+9.    [Day 09]()
+10.   [Day 10]()
+11.   [Day 11]()
+12.   [Day 12]()
+13.   [Day 13]()
+14.   [Day 14]()
+15.   [Day 15]()
