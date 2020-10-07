@@ -1,5 +1,4 @@
 ## HTML
-
 ### Ch 4. Links
 - `<a href="URL">text goes here</a>`
 - `target="_blank"`
@@ -39,6 +38,15 @@
 - **Create webpages 960-1000 px wide**
   - usability studies have shown that visitors can judge a page in under a page in under a second
   - it is important to let new visitors know that the site is relevant to them and their interests
+
+#### Using multiple style sheets
+- Multiple style sheets
+  - Modular approach
+  - `@import url("tables.css")`
+  - `@import url("typo.css")`
+  - this goes **AT THE TOP** within styles.css main css document
+- Link all CSS sheets in head tag
+
 
 #### Fixed Width Layout
 - does not change sizes when user increases/decreases size of their browser window
@@ -91,11 +99,75 @@
 
 
 ## JavaScript
-
 ### Ch 3. Functions, Methods, Objects
 
+#### Functions
+  - `return` keyword is used to retun a value of the code that is called in the function
+  - can return more than 1 value using an array
+    - ```sizes = [array, volume]
+        return sizes;
+        get sizes(1,2,3)[0]```
+
+##### Function Declaration
+- Named Function
+- ` myFunction(var1, var2) {}`
+
+##### Function Expression
+- Anonymous Function
+- `var x = function(){}`
+
+#### Variable Scope
+- Location where you declare a variable will affect where it can be used
+- if you declare a variable within a function, can only be used within the function
+
+##### Local Variables
+- "function level"
+- cannot be accessed outside function
+- functions can use the same variable names because they are local and will not override
+
+##### Global Scope
+- variable outside the function
+- can be used anywhere within script
+- *global scope variables* take up more memory
+  - browser remembers them whole time page
+  - *local variables* only remembered during execution of function
+  - each variable declared takes up memory
+  - more variables = more memory script has to run
+  - scripts that require a lot of memory perfrom slower = longer time for webpages to respond
+- risks naming conflicts may be common during collaboration
 
 ### Article: "6 Reasons for Pair Programming"
+- 4 Fundamental skills that help anyone learn a new language: Listening, Speaking, Reading, Writing
+- Pair Programming reinforces all of these!
+- Driver
+  - the one who does the programming and is on the keyboard
+- Navigator
+  - thinks about the big picture, what comes next, how an algorithm might be converted in to code
+  - scans for bugs and typos
+  - may utilize their computer to look up solutions and documentation
+  - should not write any code
 
+1. Greater Efficiency
+  - Working in pairs can lead to faster code devlopement.
+  - both programmers can reasearch the problem to reach a solution faster
+  - easier to catch mistakes
 
-## Lecture
+2. Engaged Collaboration
+  - more engaging and both programmers are more focused
+  - harder to procrastinate when two eyes are on the screen
+  bounce ideas
+
+3. Learning from fellow students
+  - different perspectives
+  - both learning from one another solidifies their own understanding
+
+4. Social Skills
+  - helps develop interpersonal skills
+  - promotes working with others
+  - able to express and talk through code with correct terminology
+
+5. Job interview readiness
+  - develope core skills  needed for employment
+
+6. Work environment readiness
+  - collaboration starts early compared to CS college graduates who have little to no collaboration
