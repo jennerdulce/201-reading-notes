@@ -24,7 +24,7 @@ Jim Kwik
 
 [Day 04](https://github.com/jennerdulce/201-reading-notes/blob/master/class-04.md)
 
-[Day 05]()
+[Day 05](https://github.com/jennerdulce/201-reading-notes/blob/master/class-05.md)
 
 [Day 06]()
 
