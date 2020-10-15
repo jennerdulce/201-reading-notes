@@ -1,3 +1,13 @@
+## Understanding the problem domain is the hardest part of programming
+- understand the problem domain
+1. figure out major components
+2. sort the pieces
+3. put together border pieces
+4. put together the rest
+- like video games, beginning stages are tutorials and later gets harder with new concepts building upon what you know
+- most you talk and understand what the problem you are working towards the easier itll be to work with.
+  - talking about it is not a waste of time
+
 ## JavaScript
 ### Ch 3. Object Literals
 - objects have properties and methods
