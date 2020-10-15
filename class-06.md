@@ -34,20 +34,57 @@ objectName.methods()
 #### Accessing Elements
 - Individual Nodes
 ```
-document.getElementById('')
-document.querySelector('')
+document.getElementById('id')
+document.querySelector('css selector')[#]
 ```
-- Multiple Nodes
+- Multiple Nodes:  returns a **NODELIST**
+  - acts like an array, access values using array[#] notation
 ```
-document.getElementsByClassName('')
-document.getElementsByTagName('')
-document.querySelectorAll('')
+document.getElementsByClassName('class name')[#]
+document.getElementsByTagName('tag name')[#]
+document.querySelectorAll('css selector')[#]
 ```
 - Traversing Between Element Nodes
-.parentNode
-.previousSibling
-.nextSibling
-.firstChild
-.lastChild
+`.parentNode`
+`.previousSibling`
+`.nextSibling` 
+`.previousElementSibling` skips text nodes
+`.nextElementSibling` skips text nodes
+`.firstChild` must be on parent node
+`.lastChild` must be on parent node
+
 
 #### Working with Elements
+- Access/update text nodes
+  - select li element
+  - use firstChild property
+  - use text nodes ONLY property `.nodeValue`
+- working with HTML content
+  - `.innerHTML`
+  - `.textContent`
+- access or update attribute values
+```
+.hasAttribute('attribute name')
+.getAttribute('attribute name')
+.setAttribute('attribute name', 'value)
+.removeAttribute('attribute name')
+.className = 
+```
+
+- STEPS
+  1. choose inital node
+  2. decide if you want to traverse the DOM
+  3. choose how you want to change /remove that node
+
+- creating new element/node
+  1. create new element node
+    - `document.createElement('tag')`
+  2. create text node
+    - `document.createTextNode('words')`
+  3. append new element/node to DOM (typically parent)
+    - `.appendChild(variable)`;
+
+- removing element/node
+  1. set variable to node you want to delete
+  2. set another variable to the parent of that node
+    - `.removeChild(variable of the node you want to delete)`
