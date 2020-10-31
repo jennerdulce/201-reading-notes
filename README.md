@@ -30,11 +30,11 @@ Jim Kwik
 
 [Day 07](https://github.com/jennerdulce/201-reading-notes/blob/master/class-07.md)
 
-[Day 08]()
+[Day 08](https://github.com/jennerdulce/201-reading-notes/blob/master/class-08.md)
 
-[Day 09]()
+[Day 09](https://github.com/jennerdulce/201-reading-notes/blob/master/class-09.md)
 
-[Day 10]()
+[Day 10](https://github.com/jennerdulce/201-reading-notes/blob/master/class-10.md)
 
 [Day 11]()
 
