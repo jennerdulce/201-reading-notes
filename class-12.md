@@ -4,7 +4,8 @@
 1. Create a `<canvas id="" height="600" width="150">Fall Back Message</canvas>`
 2. Add the script tag for Chart.js in your head tag. Similar to google fonts
 3. target the canvas element
-  - ```
+  -
+  ```
   var canvasEl = document.getElementById('chart');
   canvasEl.getContext('2d');
   ```
