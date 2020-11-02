@@ -38,7 +38,7 @@ Jim Kwik
 
 [Day 11](https://github.com/jennerdulce/201-reading-notes/blob/master/class-11.md)
 
-[Day 12]()
+[Day 12](https://github.com/jennerdulce/201-reading-notes/blob/master/class-12.md)
 
 [Day 13]()
 
