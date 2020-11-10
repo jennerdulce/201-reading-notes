@@ -1,4 +1,4 @@
-## WHat Google Learned About Teams
+## What Google Learned About Teams
 
 - employee performance optimization isn't enough
 - profitability increases when workers are persuaded to collaborate more
