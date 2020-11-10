@@ -42,6 +42,6 @@ Jim Kwik
 
 [Day 13]()
 
-[Day 14]()
+[Day 14a]()
 
-[Day 15]()
+[Day 14b](https://github.com/jennerdulce/201-reading-notes/blob/master/class-14b.md)
