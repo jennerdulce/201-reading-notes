@@ -4,8 +4,8 @@
 - profitability increases when workers are persuaded to collaborate more
 - some of google's best teams were composed of friends who socialized outside of work
 - group meetings actually help bring introverts out of their shells
-- good teams wpeak roughly in same proportion
-  - equality in distrobution of conversational turn-taking
+- good teams speak roughly in same proportion
+  - equality in distribution of conversational turn-taking
   - enthusiastic for other's ideas
   - environment that feels relaaxaed and energized
   - establishing psychologically safe environments
